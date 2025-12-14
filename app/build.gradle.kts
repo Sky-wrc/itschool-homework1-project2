@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.rgb_palitra"
+    namespace = "com.amaykov.homework1.project1"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.rgb_palitra"
+        applicationId = "com.amaykov.homework1.project1"
         minSdk = 23
         targetSdk = 36
         versionCode = 1
